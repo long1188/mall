@@ -1,0 +1,2 @@
+# mall
+django_project
